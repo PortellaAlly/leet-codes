@@ -1,3 +1,5 @@
+/* I know that this isn't the most efficient approach, but it is the first version of it, maybe another day I will optimize it using a HashMap */
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
